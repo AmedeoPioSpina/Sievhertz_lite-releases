@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.10 - 2026-11-15
+- Songs start much faster: yt-dlp no longer unpacks itself on every song
+- The fast loading path is used even when your YouTube account is connected
+- Recently played songs start instantly, even after reopening the app
+- The next 3 songs in the queue (and the first song of an album or playlist you open) are prepared in advance
+
 ## v0.1.9 - 2026-11-15
 - cookies.txt guide: how to install the extension in Chrome, Edge, Firefox, Opera / Opera GX and Brave / Vivaldi
 
