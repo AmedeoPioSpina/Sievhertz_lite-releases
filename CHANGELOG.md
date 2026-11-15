@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.1.9 - 2026-11-15
+- cookies.txt guide: how to install the extension in Chrome, Edge, Firefox, Opera / Opera GX and Brave / Vivaldi
+
 ## v0.1.8 - 2026-11-15
 - Fixed: in the player bar an empty music-note box appeared next to the song cover
 - Clearer step-by-step guide for the cookies.txt file: which page to be on and which button to press
