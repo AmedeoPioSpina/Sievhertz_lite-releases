@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.8 - 2026-11-15
+- Fixed: in the player bar an empty music-note box appeared next to the song cover
+- Clearer step-by-step guide for the cookies.txt file: which page to be on and which button to press
+
 ## v0.1.7 - 2026-11-15
 - Connecting your YouTube account (cookies) now refreshes all your music right away: Home, liked songs, playlists and search
 - Choosing the browser tests the connection immediately
